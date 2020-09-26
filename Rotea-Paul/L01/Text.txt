@@ -3,4 +3,3 @@ Este o aplicatie, un website destinat job-urilor, intrebarilor si raspunsurilor 
 Aplicatia StackOverflow este cea mai cunoscuta si utilizata aplicatie a grupului Stack Exchange Inc., avand un numar de vizitatori estimat la 5,260,823 vizitatori unici.
 Cu ajutorul acesteia, o multitudine de proiecte au fost duse la bun sfarsit, datorita ajutorului obtinut, in aceeasi masura in care multe persoane si-au gasit un job, poate chiar acel "Dream Job" din domeniul programarii.
 Cel mai folosit mod de utilizare al acestei aplicatii este prin motorul de cautare Google, dar aceasta poate fi utilizata accesand direct site-ul www.stackoverflow.com, fara a se incerca obisnuita cautare pe Google si alegerea raspunsului oferit de StackOverflow.
-   
